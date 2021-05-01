@@ -333,7 +333,7 @@ section.pricing-table {
     background: #fff;
 }
 .btn.btn-outline-light {
-    background-color: #3C55BA;
+    background-color: rgb(60, 85, 186);
 }
 .blog-section .action-list .fa-comment {
     color: #f7a13e;
