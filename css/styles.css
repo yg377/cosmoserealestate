@@ -245,6 +245,8 @@ img {
 
   #logo {
     margin-right: 0px;
+    width: 50px ;
+    
    
     
   }
@@ -10722,16 +10724,7 @@ section.featured.home15 {
   z-index: 3;
 }
 
-.info-help:before {
-  content: "";
-  background: rgba(0, 0, 0, 0.5);
-  position: absolute;
-  left: 0px;
-  top: 0px;
-  width: 100%;
-  height: 100%;
-  z-index: -1;
-}
+
 
 .info-help .info-head .info-text {
   padding-left: 0px;
