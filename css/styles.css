@@ -16979,17 +16979,7 @@ body.dashboard-bd {
   font-weight: 400;
 }
 
-.header-user-name:before {
-  font-family: "FontAwesome";
-  content: "\f0d7";
-  position: absolute;
-  color: #666;
-  bottom: 1px;
-  font-size: 13px;
-  right: -16px;
-  -webkit-transition: all .2s ease-in-out;
-  transition: all .2s ease-in-out;
-}
+
 
 .header-user-name span {
   position: absolute;
