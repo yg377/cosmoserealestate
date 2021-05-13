@@ -10746,8 +10746,9 @@ section.featured.home15 {
 
 .info-help .info-head .info-text .btn-pro {
   background: #18ba60;
-  color: #fff;
+  color: #111111;
   margin-top: 10px;
+  margin-bottom:25px;
   border: 0;
   -webkit-transition: all .5s ease;
   transition: all .5s ease;
